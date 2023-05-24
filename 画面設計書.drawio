@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2023-05-24T10:10:42.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="PusfSHzfGDgy-8LF5vzW" version="21.2.8" type="device">
+  <diagram name="ページ1" id="bgXgCfkF01Q6MvIInMap">
+    <mxGraphModel dx="2590" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VfKIazESOIEFd_hLBFCt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="1920" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;画像を生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;タブ&lt;/font&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-5" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;タブ&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;タブ&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-8" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;メニューバー&lt;/font&gt;" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="260" width="1920" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="510" width="1120" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-11" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;labelBorderColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="10" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-12" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;２&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;labelBorderColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="10" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-13" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;３&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;labelBorderColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="170" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-14" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;４&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;labelBorderColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="170" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;タブ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="160" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-17" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-18" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;タブを表示する（Edge,Chromeにおいて標準で表示される内容をそのまま表示）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="160" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-19" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;メニューバー&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="320" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-20" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;２&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-21" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;メニューバーを表示する（Edge,Chromeにおいて標準で表示される内容をそのまま表示）&lt;/span&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="320" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-22" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;画像を生成ボタン&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="480" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-23" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;３&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-24" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;押下することで、画像表示エリアに画像を表示する(400×100ピクセル)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="480" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-25" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;画像表示エリア&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="640" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-26" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfKIazESOIEFd_hLBFCt-27" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;画像を生成ボタンを押下した後、この場所に画像を表示する(1120×700ピクセル)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="640" width="800" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
