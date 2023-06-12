@@ -3,13 +3,13 @@
  <head>
   <meta charset="UTF-8">
   <title>image sample</title>
-  <script src=https://unpkg.com/vue@next></script>
+  <script src=https://unpkg.com/vue@3/dist/vue.global.js></script>
  </head>
 
  <body>
-  <button onclick="doBtn()">画像を表示</button>
+  <h2>画像を表示</h2>
    <div id="app">
-    <img v-bind:src="imagename"></img>
+    <img v-bind:src="imagename">練習</img>
    </div>
 
    <script>
